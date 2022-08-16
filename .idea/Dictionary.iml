@@ -8,6 +8,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">
-    <option name="requirementsPath" value="" />
+    <option name="requirementsPath" value="C:\Users\saiha\PycharmProjects\Dictionary\PYTest1" />
+  </component>
+  <component name="ReSTService">
+    <option name="DOC_DIR" value="C:\Users\saiha\PycharmProjects\Dictionary\PYTest1" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
 </module>
